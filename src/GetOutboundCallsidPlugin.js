@@ -4,7 +4,7 @@ import { FlexPlugin } from 'flex-plugin';
 
 import reducers, { namespace } from './states';
 
-const URL = "Your function's URL"
+const URL = "Your function's URL" + "?number="
 
 const PLUGIN_NAME = 'GetOutboundCallsidPlugin';
 
